@@ -1,0 +1,14 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+<<<<<<< HEAD
+cout<<"I am learning the "
+cout<<"Learning"
+cout<<"writing and doing";
+=======
+cout<<"I am learning the lkjh "
+cout<<"Learnng in the past"
+>>>>>>> 42642fb (Adding the files)
+
+}
