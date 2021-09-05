@@ -1,2 +1,1 @@
-Hi there this exam is for the various types of the comparision
-This is in the modified state
+This is the first file for the comparison
