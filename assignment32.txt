@@ -1,1 +1,2 @@
 This is the second file in the comparison
+This is the file is in the modified state

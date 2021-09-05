@@ -1,1 +1,2 @@
 This is the first file for the comparison
+Now it will be in the modified state
