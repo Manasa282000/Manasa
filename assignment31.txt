@@ -1,2 +1,5 @@
 This is the first file for the comparison
 Now it will be in the modified state
+now it be in the modified state2
+this is in the not staging
+this is in the untrackedregion

@@ -1,2 +1,5 @@
 This is the second file in the comparison
 This is the file is in the modified state
+this is the file for the modifieed state2
+this is the file fo rthe staging
+this is in the untracked file
